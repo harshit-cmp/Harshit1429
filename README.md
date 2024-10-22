@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Harshit Sharma
+- 🔭 I’m currently working with Flutter & APIs.
 - 👀 I’m interested in Flutter & Kotlin Developer intern.
 - 🌱 I’m currently learning about Kotlin & Backend Technologies.
 - 💞️ I’m looking for part time opportunities as a full stack App Dev.
